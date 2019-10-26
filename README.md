@@ -2,7 +2,4 @@
 Workshop de GitHub 2019 - GDG Petrópolis
 
 Hello, guy!
-How are you doing
-
-Hello, guy!
-How are you doing??
+How are you doing?
